@@ -1,0 +1,64 @@
+.calcborder
+{
+    width: 500px;
+    height: 480px;
+    margin-left: 500px;
+    margin-top: 48px;
+    background: #0000007d;
+    border: solid 4px;
+    border-radius: 8px;
+}
+
+
+
+#screen
+{
+    margin-top: 33px;
+    margin-left: 50px;
+    width: 400px;
+    height: 70px;
+    pointer-events: none;
+    border : solid 3px;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.678);
+    background: ghostwhite;
+}
+
+.btns
+{
+    margin-left: 49px;
+    margin-top: 47px;
+}
+
+.r1
+{
+    width: 98px;
+    height: 54px;
+    background: wheat;
+    border-radius: 14px;
+    font-size: 26px;
+    color: rgb(39 35 29 / 92%);
+    cursor: pointer;
+}
+
+.r1:hover
+{
+    background:khaki;
+}
+
+.row1
+{
+    margin-bottom: 21px;
+}
+.row2
+{
+    margin-bottom: 21px;
+}
+.row3
+{
+    margin-bottom: 21px;
+}
+.row4
+{
+    margin-bottom: 21px;
+}
